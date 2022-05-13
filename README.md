@@ -7,3 +7,10 @@
 ![Stack](stacks.png)
 
 ![Queues](queues.png)
+
+# Sets
+
+```
+fruits = {'apple', 'orange', 'banana'}
+fruits = set(['orange', 'apple', 'mango'])
+```
