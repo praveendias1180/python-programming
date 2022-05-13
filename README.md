@@ -14,3 +14,10 @@
 fruits = {'apple', 'orange', 'banana'}
 fruits = set(['orange', 'apple', 'mango'])
 ```
+
+# Dictionary
+
+```
+my_first_dict = dict()
+scores = {'Saman': 70, 'Praveen': 100, 'Kamal': 20}
+```
