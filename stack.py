@@ -14,6 +14,6 @@ push(my_stack, "c")
 
 print(my_stack)
 
-pop(my_stack)
+print(pop(my_stack))
 
 print(my_stack)
