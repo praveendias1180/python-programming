@@ -52,3 +52,7 @@ Simple game development with Python Object Oriented Programming.
 # Data Visualization
 
 ![Visual](visual.png)
+
+## MatPlotLib
+
+![tshirt](tshirt.png)
