@@ -34,3 +34,7 @@ Simple game development with Python Object Oriented Programming.
 # Python Databases
 
 ![DBMS](dbms.png)
+
+## 40 Zettabytes of DATA
+
+![40 Z](40z.png)
