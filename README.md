@@ -40,3 +40,7 @@ Simple game development with Python Object Oriented Programming.
 ### Meet BigDATA
 
 ![40 Z](40z.png)
+
+## PyMySQL
+
+![pymysql](pymysql.png)
