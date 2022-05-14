@@ -7,3 +7,6 @@ print(data)
 df = pd.DataFrame(data)
 
 print(df)
+
+df = pd.read_csv("pandadata.csv")
+print(df.to_string())
