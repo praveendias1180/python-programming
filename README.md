@@ -44,3 +44,7 @@ Simple game development with Python Object Oriented Programming.
 ## PyMySQL
 
 ![pymysql](pymysql.png)
+
+## Pandas
+
+![pandas](pandass.png)
