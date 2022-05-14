@@ -48,3 +48,7 @@ Simple game development with Python Object Oriented Programming.
 ## Pandas
 
 ![pandas](pandass.png)
+
+# Data Visualization
+
+![Visual](visual.png)
